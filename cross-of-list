@@ -1,0 +1,4 @@
+import math
+l=[7,8,9,4,6,5,123,46,87]
+r=math.prod(l)
+print(r)
